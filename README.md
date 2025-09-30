@@ -43,4 +43,6 @@ This project uses the **Watson NLP Library API** provided within the IBM Skills 
 - The API endpoint (`sn-watson-emotion.labs.skills.network`) is **specific to the IBM Cloud IDE** used in the course.  
 - If you run this project outside the Skills Network Lab, the API call may **not return results**, since public access is not available.  
 
- 
+### 🔧 To replicate outside IBM Skills Network Labs  
+- You can adapt the project to use IBM’s official Watson Natural Language Understanding (NLU) API, which requires creating an IBM Cloud account and generating an API key.  
+- Update the `emotion_detector()` function with your API key and endpoint from IBM Cloud.  
