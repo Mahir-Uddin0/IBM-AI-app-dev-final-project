@@ -18,8 +18,8 @@ This project demonstrates how to:
 ## ▶️ How to Run the Project  
 1. Clone the repository
 ```
-   - git clone https://github.com/<your-username>/<repo-name>.git  
-   - cd <repo-name>
+   - git clone https://github.com/Mahir-Uddin0/IBM-AI-app-dev-final-project.git 
+   - cd IBM-AI-app-dev-final-project
 ```
 
 2. Install dependencies
