@@ -22,17 +22,17 @@ This project demonstrates how to:
    - cd <repo-name>
 ```
 
-3. Install dependencies
+2. Install dependencies
 ``` 
    - pip install -r requirements.txt
 ``` 
 
-5. Run the Flask app
+3. Run the Flask app
 ```
    - python app.py
 ``` 
 
-7. Access the app in your browser
+4. Access the app in your browser
 ```
    - Go to: http://127.0.0.1:5000/
 ``` 
