@@ -16,17 +16,25 @@ This project demonstrates how to:
 - Deploy a simple, AI-powered Flask application locally  
 
 ## ▶️ How to Run the Project  
-1. Clone the repository  
+1. Clone the repository
+2. ```
    - git clone https://github.com/<your-username>/<repo-name>.git  
-   - cd <repo-name>  
+   - cd <repo-name>
+   ```
 
-2. Install dependencies  
-   - pip install -r requirements.txt  
+3. Install dependencies
+4. ``` 
+   - pip install -r requirements.txt
+   ``` 
 
-3. Run the Flask app  
-   - python app.py  
+5. Run the Flask app
+6. ```
+   - python app.py
+   ``` 
 
-4. Access the app in your browser  
-   - Go to: http://127.0.0.1:5000/  
+7. Access the app in your browser
+8. ```
+   - Go to: http://127.0.0.1:5000/
+   ``` 
 
 ---
