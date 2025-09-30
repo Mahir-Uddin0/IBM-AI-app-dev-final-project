@@ -29,7 +29,7 @@ This project demonstrates how to:
 
 3. Run the Flask app
 ```
-   - python app.py
+   - python server.py
 ``` 
 
 4. Access the app in your browser
