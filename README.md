@@ -15,19 +15,16 @@ This project demonstrates how to:
 - Write unit tests and include error handling  
 - Deploy a simple, AI-powered Flask application locally
 
-## Tech Stack
-With regard to my role:
+## ⚙️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- GitHub
-- Python Testing Framework: Unittest
-- Python Web Framework: Flask
-- Static Code Analysis: PyLint
-- Watson NLP Library
-- IBM Cloud IDE
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, Flask  
+- **Version Control:** GitHub  
+- **Testing:** Python `unittest`  
+- **Code Quality:** PyLint (Static Code Analysis)  
+- **AI / NLP:** Watson NLP Library (via IBM Cloud IDE)  
+- **Environment:** IBM Cloud IDE
+
 
 ## ▶️ How to Run the Project  
 1. Clone the repository
