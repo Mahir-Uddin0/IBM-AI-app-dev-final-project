@@ -15,7 +15,7 @@ This project demonstrates how to:
 - Structure a Python web app (routes, request/response)  
 - Handle user input and output formatting  
 - Write unit tests and include error handling  
-- Deploy a simple, AI-powered Flask application locally
+- Run a simple, AI-powered Flask application locally
 
 ## ⚙️ Tech Stack
 
