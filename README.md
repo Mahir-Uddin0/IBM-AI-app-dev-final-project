@@ -13,7 +13,21 @@ This project demonstrates how to:
 - Structure a Python web app (routes, request/response)  
 - Handle user input and output formatting  
 - Write unit tests and include error handling  
-- Deploy a simple, AI-powered Flask application locally  
+- Deploy a simple, AI-powered Flask application locally
+
+## Tech Stack
+With regard to my role:
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- GitHub
+- Python Testing Framework: Unittest
+- Python Web Framework: Flask
+- Static Code Analysis: PyLint
+- Watson NLP Library
+- IBM Cloud IDE
 
 ## ▶️ How to Run the Project  
 1. Clone the repository
