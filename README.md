@@ -16,5 +16,13 @@ This project demonstrates how to:
 - Handle user input and output formatting  
 - Write unit tests and include error handling
 
- 
+## ⚙️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, Flask  
+- **Version Control:** GitHub  
+- **Testing:** Python `unittest`  
+- **Code Quality:** PyLint (Static Code Analysis)  
+- **AI / NLP:** Watson NLP Library (via IBM Cloud IDE)  
+- **Environment:** IBM Cloud IDE
 
