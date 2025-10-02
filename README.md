@@ -26,3 +26,24 @@ This project demonstrates how to:
 - **AI / NLP:** Watson NLP Library (via IBM Cloud IDE)  
 - **Environment:** IBM Cloud IDE
 
+## ▶️ How to Run the Project  
+1. Clone the repository
+```
+   - git clone https://github.com/Mahir-Uddin0/IBM-AI-app-dev-final-project.git 
+   - cd IBM-AI-app-dev-final-project
+```
+
+2. Install dependencies
+``` 
+   - pip install -r requirements.txt
+``` 
+
+3. Run the Flask app
+```
+   - python server.py
+``` 
+
+4. Access the app in your browser
+```
+   - Go to: http://127.0.0.1:5000/
+``` 
