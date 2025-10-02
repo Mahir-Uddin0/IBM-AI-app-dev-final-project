@@ -47,3 +47,8 @@ This project demonstrates how to:
 ```
    - Go to: http://127.0.0.1:5000/
 ``` 
+---
+## ⚠️ Important Note on API Access  
+This project uses the **Watson NLP Library API** provided within the IBM Skills Network Labs environment.  
+- The API endpoint (`sn-watson-emotion.labs.skills.network`) is **specific to the IBM Cloud IDE** used in the course.  
+- If you run this project outside the Skills Network Lab, the API call may **not return results**, since public access is not available.  
